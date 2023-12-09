@@ -31,5 +31,5 @@
 
 ## Profile Statictis
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Rayhan-66&theme=default"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abu-Rayhan-66&theme=default" width="1000"/>
 
