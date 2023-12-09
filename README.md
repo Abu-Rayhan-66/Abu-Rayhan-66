@@ -2,4 +2,6 @@
 
 ## 📈 Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abu-Rayhan-66&theme=transparent)](https://git.io/streak-stats)
+<a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abu-Rayhan-66&theme=transparent" width="1000" />
+</a>
