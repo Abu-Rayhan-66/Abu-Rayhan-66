@@ -3,11 +3,7 @@
 ## 📈 Current Stats
 
 <a>
- <img 
-  src="https://streak-stats.demolab.com?user=Abu-Rayhan-66&theme=transparent&cache_seconds=0&v=20260220"
-  width="1000"
-/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Abu-Rayhan-66&theme=transparent" width="1000" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Abu Rayhan</h1>
